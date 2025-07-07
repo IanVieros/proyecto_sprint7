@@ -14,3 +14,11 @@ if hist_button:
     fig = px.histogram(car_data, x="odometer")
     
     st.plotly_chart(fig, use_container_width=True)
+
+scattered_button = st.button("Construir cuadro de dipersión")
+if scattered_button:
+    st.write("se crea cuadro de disperción... miaumiau")
+
+    fig_sc = px.scatter(car_data, x="odometer", y="price")
+
+    st.plotly_chart(fig_sc, use_container_width=True)
