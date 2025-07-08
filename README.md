@@ -1,6 +1,6 @@
 # Proyecto_sprint7
 
-## Descripción del proyecto
+## Descripción del proyecto:
 
 Esta aplicación web permite visualizar de forma interactiva un conjunto de datos de anuncios de venta de vehículos usados en EE. UU.
 
