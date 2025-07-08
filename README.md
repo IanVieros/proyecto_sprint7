@@ -6,8 +6,8 @@ Esta aplicación web permite visualizar de forma interactiva un conjunto de dato
 
 El usuario puede seleccionar entre dos visualizaciones:
 
-- Un histograma del kilometraje (`odometer`) de los vehículos.
-- Un diagrama de dispersión que muestra la relación entre kilometraje y precio (`price`).
+- Un histograma del kilometraje ("odometer") de los vehículos.
+- Un diagrama de dispersión que muestra la relación entre kilometraje y precio ("price").
 
 Ambos gráficos están construidos con Plotly Express y renderizados en una interfaz web usando Streamlit.
 
